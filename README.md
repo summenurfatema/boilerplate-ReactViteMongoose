@@ -1,1 +1,1 @@
-# boilerplate-react-and-vite
+# boilerplate [react+vite+mongoose]
