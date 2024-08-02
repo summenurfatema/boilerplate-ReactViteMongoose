@@ -1,1 +1,1 @@
-# boilerplate [react+vite+mongoose]
+# boilerplate [react+vite+mongoose] new addition.
